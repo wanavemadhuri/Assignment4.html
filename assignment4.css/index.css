@@ -1,0 +1,23 @@
+.text1 {
+   color: brown; 
+}
+.text2 {
+    color: brown;
+    background-color: yellow;
+}
+.text3{
+   color: brown;
+   padding:"2px";
+   letter-spacing: 5px; 
+}
+.text4{
+    background-color: yellow;
+}
+
+.text5{
+    color: brown;
+}
+.text6{
+    color: brown;
+    background-color: yellow;
+}
